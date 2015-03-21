@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="/Applications/eclipse/plugins/processing.plugin.core_0.2.5.1/Resources/lib/core.jar"/>
+	<classpathentry kind="con" path="/org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 6 [1.6.0_51-b11-457]"/>
+	<classpathentry kind="lib" path="/Users/offenhuber_d/git/AECFacadeProcessingLibrary/AECPlugin/library/AECPlugin.jar"/>
+	<classpathentry kind="output" path="generated/compiler"/>
+</classpath>
